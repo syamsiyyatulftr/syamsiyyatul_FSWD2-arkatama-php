@@ -106,6 +106,4 @@
     </div>
 
 </body>
-
 </html>
-<?php $this->load->index.html; ?>
