@@ -59,11 +59,6 @@
             </div>
         </div>
 
-        <!-- Skill -->
-    
-
-
-
         <!-- Pendiidkan -->
         <div class="pendidikan" id="pendidikan">
             <h1>RIWAYAT PENDIDIKAN</h1>
